@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MovieLab</string>
+    <string name="favorite_button">Favoritar</string>
+    <string name="trending_label">Populares</string>
+    <string name="trending_description">Explore os filmes populares hoje e encontre coisas novas para assistir!</string>
+    <string name="find_label">Buscar</string>
+    <string name="find_description">Encontre filmes buscando pelo título</string>
+    <string name="favorites_label">Favoritos</string>
+    <string name="favorites_description">Sua lista de filmes salvos</string>
+    <string name="delete_button">Deletar</string>
+    <string name="rate">Avaliação</string>
+    <string name="find_placeholder">Pesquisar filme</string>
+    <string name="no_search_label">Nenhuma pesquisa realizada</string>
+    <string name="movie_not_found">Nenhum filme encontrado</string>
+    <string name="favorite_empty_list_description">Encontre seus filmes favoritos e adicione à sua lista</string>
+    <string name="favorite_empty_list_title">Nenhum filme salvo</string>
+    <string name="back_button">Voltar</string>
+    <string name="movie_poster">Poster %1$s</string>
+    <string name="error_description">Feche a aplicação e abra novamente</string>
+    <string name="error_title">Houve um erro ao buscar os filmes</string>
+    <string name="sorry">Desculpe</string>
+    <string name="details_error_description">Não conseguimos buscar detalhes do filme selecionado</string>
+    <string name="try_again">Tentar novamente</string>
+    <string name="trailer">Assistir trailer</string>
+    <string name="rating_limit">/ 10</string>
+    <string name="runtime_title">Duração</string>
+    <string name="release_date_title">Lançamento</string>
+</resources>
